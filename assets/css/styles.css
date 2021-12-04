@@ -1,0 +1,127 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;900&display=swap');
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3.5rem;
+
+  /*========== Colors ==========*/
+  --hue: 14;
+  --first-color: ;
+  --first-color-alt: ;
+  --title-color: ;
+  --text-color: ;
+  --text-color-light: ;
+  --body-color: ;
+  --container-color: ;
+
+  /*========== Font and typography ==========*/
+  --body-font: ;
+  --biggest-font-size: ;
+  --h1-font-size: ;
+  --h2-font-size: ;
+  --h3-font-size: ;
+  --normal-font-size: ;
+  --small-font-size: ;
+  --smaller-font-size: ;
+
+  /*========== Font weight ==========*/
+  --font-medium: ;
+  --font-semi-bold: ;
+  --font-black: ;
+
+  /*========== Margenes Bottom ==========*/
+  --mb-0-25: ;
+  --mb-0-5: ;
+  --mb-0-75: ;
+  --mb-1: ;
+  --mb-1-5: ;
+  --mb-2: ;
+  --mb-2-5: ;
+
+  /*========== z index ==========*/
+  --z-tooltip: ;
+  --z-fixed: ;
+}
+
+/* Responsive typography */
+@media screen and (min-width: 992px) {
+  :root {
+    --biggest-font-size: ;
+    --h1-font-size: ;
+    --h2-font-size: ;
+    --h3-font-size: ;
+    --normal-font-size: ;
+    --small-font-size: ;
+    --smaller-font-size: ;
+  }
+}
+
+/*=============== BASE ===============*/
+
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+
+
+/*=============== HEADER ===============*/
+
+
+/*=============== NAV ===============*/
+
+
+/* Show menu */
+
+
+/* Change background header */
+
+
+/* Active link */
+
+
+/*=============== HOME ===============*/
+
+
+/* Swiper Class */
+
+
+/*=============== BUTTONS ===============*/
+
+
+/*=============== CATEGORY ===============*/
+
+
+/*=============== ABOUT ===============*/
+
+
+/*=============== TRICK OR TREAT ===============*/
+
+
+/*=============== DISCOUNT ===============*/
+
+
+/*=============== NEW ARRIVALS ===============*/
+
+
+/*=============== NEWSLETTER ===============*/
+
+
+/*=============== FOOTER ===============*/
+
+
+/*=============== SCROLL UP ===============*/
+
+
+/* Show Scroll Up*/
+
+
+/*=============== SCROLL BAR ===============*/
+
+
+/*===============  BREAKPOINTS ===============*/
+/* For small devices */
+
+
+/* For medium devices */
+
+
+/* For large devices */
