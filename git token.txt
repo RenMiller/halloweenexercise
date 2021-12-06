@@ -1,0 +1,8 @@
+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
+git checkout -b "04-12-store"
+
+git add .
+
+git commit -m "04 12 store"
+
+git push origin 04-12-store
